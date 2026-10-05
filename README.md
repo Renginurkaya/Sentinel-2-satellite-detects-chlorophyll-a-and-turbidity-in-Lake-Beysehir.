@@ -1,0 +1,1 @@
+# Sentinel-2-satellite-detects-chlorophyll-a-and-turbidity-in-Lake-Beysehir.
